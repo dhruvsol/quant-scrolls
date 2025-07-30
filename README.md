@@ -10,3 +10,8 @@ Whether you're diving into market microstructure, exploring high-frequency tradi
 - ⚙️ MEV research and decentralized market dynamics
 - 📈 Quant theory and modeling techniques
 - 🧾 Assorted PDFs worth hoarding for rainy day signal-sniffing
+
+
+## Contributors 
+- [dhruvsol](https://github.com/dhruvsol)
+- [0xahzam](https://github.com/0xahzam)
