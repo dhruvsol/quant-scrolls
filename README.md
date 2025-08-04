@@ -11,7 +11,7 @@ Whether you're diving into market microstructure, exploring high-frequency tradi
 - 📈 Quant theory and modeling techniques
 - 🧾 Assorted PDFs worth hoarding for rainy day signal-sniffing
 
-## Content index
+## 📚 Content index
 
 | Name                                   | Link                                                                           | Small Description                                                                                                                         |
 | -------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -28,7 +28,9 @@ Whether you're diving into market microstructure, exploring high-frequency tradi
 | Optimal Trade Execution Mean Reversion | [link](./scrolls/optimal-trade-execution-mean-reversion.pdf)                   | Optimal execution using mean-reversion signals.                                                                                           |
 | PT Token Risk Assessment Framework     | [link](./scrolls/pt-token-risk-assessment-framework.pdf)                       | A risk model framework for protocol tokens.                                                                                               |
 
-## Contributors
+## 🤝 Contributors
+
+Thanks to these folks for curating and contributing to this collection:
 
 - [dhruvsol](https://github.com/dhruvsol)
 - [0xahzam](https://github.com/0xahzam)
