@@ -27,6 +27,7 @@ Whether you're diving into market microstructure, exploring high-frequency tradi
 | More Money Than God                    | [link](./scrolls/more-money-than-god.pdf)                                      | A riveting history of hedge funds and the maverick traders who defied markets, shaped finance, and got fabulously rich—until they didn’t. |
 | Optimal Trade Execution Mean Reversion | [link](./scrolls/optimal-trade-execution-mean-reversion.pdf)                   | Optimal execution using mean-reversion signals.                                                                                           |
 | PT Token Risk Assessment Framework     | [link](./scrolls/pt-token-risk-assessment-framework.pdf)                       | A risk model framework for protocol tokens.                                                                                               |
+| Advances in Financial Machine Learning by Marcos López de Prado | [link](./scrolls/prado_financial_ml.pdf) | A comprehensive guide to financial machine learning. |
 
 ## 🤝 Contributors
 
@@ -34,3 +35,4 @@ Thanks to these folks for curating and contributing to this collection:
 
 - [dhruvsol](https://github.com/dhruvsol)
 - [0xahzam](https://github.com/0xahzam)
+- [0xPraedico](https://github.com/0xPraedico)
