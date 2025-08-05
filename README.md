@@ -15,3 +15,4 @@ Whether you're diving into market microstructure, exploring high-frequency tradi
 ## Contributors 
 - [dhruvsol](https://github.com/dhruvsol)
 - [0xahzam](https://github.com/0xahzam)
+- [amalnathsathyan](https://github.com/amalnathsathyan)
