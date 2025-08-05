@@ -35,4 +35,5 @@ Thanks to these folks for curating and contributing to this collection:
 
 - [dhruvsol](https://github.com/dhruvsol)
 - [0xahzam](https://github.com/0xahzam)
+- [amalnathsathyan](https://github.com/amalnathsathyan)
 - [0xPraedico](https://github.com/0xPraedico)
