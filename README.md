@@ -34,6 +34,7 @@ Whether you're diving into market microstructure, exploring high-frequency tradi
 | A Primer on Alternative Risk Premia | [link](./scrolls/a-primer-on-alternative-risk-premia.pdf) | Exploring alternative risk premia, their performance, and role in portfolio construction and hedge fund analysis. |
 | Building Cross-Sectional Systematic Strategies By Learning to Rank | [link](./scrolls/building-cross-sectional-systematic-strategies-by-learning-to-rank.pdf) | Introduces learning-to-rank algorithms to improve asset ranking in cross-sectional strategies, significantly boosting trading performance and Sharpe ratios. |
 | Carry | [link](./scrolls/carry.pdf) | Generalizes the concept of carry across asset classes, showing it as a powerful, unified predictor of returns beyond known factors, though driven partly by macro risks. |
+| Order Flow and Market Profile Course | [link](https://www.youtube.com/playlist?list=PLW-zja9ufsdjEntkQNd0Y9ZqU503M9Xm_) | This course teaches the foundations of trading and a step-by-step method for using market profile and order flow together to develop a robust trading strategy. |
 
 ## 🤝 Contributors
 
