@@ -30,7 +30,10 @@ Whether you're diving into market microstructure, exploring high-frequency tradi
 | Advances in Financial Machine Learning by Marcos López de Prado | [link](./scrolls/prado_financial_ml.pdf) | A comprehensive guide to financial machine learning. |
 | High-frequency market-making with inventory constraints and directional bets | [link](./scrolls/high-frequency-market-making-with-inventory-constraints-and-directional-bets.pdf) | Extends the Avellaneda Stoikov model to make directional bets on market trends and keep inventory risk under control. |
 | The Financial Hacker | [link](https://financial-hacker.com) | A blog that provides a new view on algorithmic trading. |
-| Giuseppe Paleologo's Resources | [link](https://linktr.ee/paleologo) | |
+| Giuseppe Paleologo's Resources | [link](https://linktr.ee/paleologo) | Resource hub for Giuseppe Paleologo, collecting his talks, interviews, writings, and book publications on quantitative investing, portfolio management, and factor modeling. |
+| A Primer on Alternative Risk Premia | [link](./scrolls/a-primer-on-alternative-risk-premia.pdf) | Exploring alternative risk premia, their performance, and role in portfolio construction and hedge fund analysis. |
+| Building Cross-Sectional Systematic Strategies By Learning to Rank | [link](./scrolls/building-cross-sectional-systematic-strategies-by-learning-to-rank.pdf) | Introduces learning-to-rank algorithms to improve asset ranking in cross-sectional strategies, significantly boosting trading performance and Sharpe ratios. |
+| Carry | [link](./scrolls/carry.pdf) | Generalizes the concept of carry across asset classes, showing it as a powerful, unified predictor of returns beyond known factors, though driven partly by macro risks. |
 
 ## 🤝 Contributors
 
