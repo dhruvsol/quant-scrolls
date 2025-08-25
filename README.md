@@ -28,6 +28,9 @@ Whether you're diving into market microstructure, exploring high-frequency tradi
 | Optimal Trade Execution Mean Reversion | [link](./scrolls/optimal-trade-execution-mean-reversion.pdf)                   | Optimal execution using mean-reversion signals.                                                                                           |
 | PT Token Risk Assessment Framework     | [link](./scrolls/pt-token-risk-assessment-framework.pdf)                       | A risk model framework for protocol tokens.                                                                                               |
 | Advances in Financial Machine Learning by Marcos López de Prado | [link](./scrolls/prado_financial_ml.pdf) | A comprehensive guide to financial machine learning. |
+| High-frequency market-making with inventory constraints and directional bets | [link](./scrolls/high-frequency-market-making-with-inventory-constraints-and-directional-bets.pdf) | Extends the Avellaneda Stoikov model to make directional bets on market trends and keep inventory risk under control. |
+| The Financial Hacker | [link](https://financial-hacker.com) | A blog that provides a new view on algorithmic trading. |
+| Giuseppe Paleologo's Resources | [link](https://linktr.ee/paleologo) | |
 
 ## 🤝 Contributors
 
@@ -36,3 +39,4 @@ Thanks to these folks for curating and contributing to this collection:
 - [dhruvsol](https://github.com/dhruvsol)
 - [0xahzam](https://github.com/0xahzam)
 - [0xPraedico](https://github.com/0xPraedico)
+- [LordGhostX](https://github.com/LordGhostX)
